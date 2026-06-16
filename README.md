@@ -1,15 +1,20 @@
-## Project Metrics
+## Project Overview
 
-* Total Test Cases Executed: 94
-* Passed Test Cases: 64
-* Failed Test Cases: 30
-* Evidence: Embedded screenshots for failed scenarios
-* Testing Type: Manual Functional Testing
+This project involved manual testing of an Education and Career Platform similar to job and internship portals.
 
-### Key Activities
+### Modules Tested
 
-* Test Case Design
-* Test Execution
-* Defect Identification
-* Result Documentation
-* Evidence Collection
+* User Registration
+* Login & Authentication
+* User Profile Management
+* Search & Filter Functionality
+* Application Workflows
+* Dashboard Features
+* Form Validation
+
+### Testing Summary
+
+* Total Test Cases: 94
+* Passed: 64
+* Failed: 30
+* Defect Evidence: Embedded screenshots
