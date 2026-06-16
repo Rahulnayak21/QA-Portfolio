@@ -1,21 +1,29 @@
 # QA Portfolio
 
-This repository contains sample manual testing artifacts created for practice and internship-based testing activities.
+This repository showcases my Manual Testing work, including test case design, test execution, defect identification, and QA documentation.
 
-Contents:
+## Contents
+
+### Web Application Testing
 
 * Test Cases
-* Test Scenarios
 * Test Execution Results
-* Defect Evidence Screenshots
+* Pass/Fail Status Tracking
+* Defect Evidence
 
-Skills Demonstrated:
+## Skills Demonstrated
 
 * Manual Testing
 * Functional Testing
 * Test Case Design
 * Defect Identification
-* Test Documentation
+* Bug Documentation
+* Test Execution
 * Quality Assurance
 
-Note: All confidential information has been removed or anonymized.
+## Tools Used
+
+* Google Sheets
+* GitHub
+
+Note: Any confidential or client-specific information has been removed.
