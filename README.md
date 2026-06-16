@@ -1,29 +1,15 @@
-# QA Portfolio
+## Project Metrics
 
-This repository showcases my Manual Testing work, including test case design, test execution, defect identification, and QA documentation.
+* Total Test Cases Executed: 94
+* Passed Test Cases: 64
+* Failed Test Cases: 30
+* Evidence: Embedded screenshots for failed scenarios
+* Testing Type: Manual Functional Testing
 
-## Contents
+### Key Activities
 
-### Web Application Testing
-
-* Test Cases
-* Test Execution Results
-* Pass/Fail Status Tracking
-* Defect Evidence
-
-## Skills Demonstrated
-
-* Manual Testing
-* Functional Testing
 * Test Case Design
-* Defect Identification
-* Bug Documentation
 * Test Execution
-* Quality Assurance
-
-## Tools Used
-
-* Google Sheets
-* GitHub
-
-Note: Any confidential or client-specific information has been removed.
+* Defect Identification
+* Result Documentation
+* Evidence Collection
