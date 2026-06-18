@@ -1,20 +1,31 @@
-## Project Overview
+# QA Portfolio
 
-This project involved manual testing of an Education and Career Platform similar to job and internship portals.
+Manual Testing portfolio containing test case design, execution tracking, defect documentation, and validation records.
 
-### Modules Tested
+## Projects Tested
 
-* User Registration
-* Login & Authentication
-* User Profile Management
-* Search & Filter Functionality
-* Application Workflows
-* Dashboard Features
-* Form Validation
+* Education App
+* Education Website
+* Maanjha Ecommerce
+* Cashbook App
+* Fees Management App
+* CMS Website
+* PostGeneration Website
 
-### Testing Summary
+## QA Activities Performed
 
-* Total Test Cases: 94
-* Passed: 64
-* Failed: 30
-* Defect Evidence: Embedded screenshots
+* Test Case Design
+* Functional Testing
+* Defect Identification
+* Severity Analysis
+* Result Documentation
+* Screenshot Evidence Collection
+
+## Sample Metrics
+
+* 300+ Test Cases Executed
+* Multiple Web & Mobile Applications Tested
+* Defect Tracking with Severity Classification
+* Manual Testing Documentation
+
+Note: All confidential information has been removed or anonymized.
